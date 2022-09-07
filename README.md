@@ -1,2 +1,1 @@
-# cikolatali-kup-tarifi
- 
+ ![Tux, the Linux mascot](image.png)
